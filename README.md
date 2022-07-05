@@ -18,7 +18,7 @@ Your final report should include each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
-![Figure 1](Images/Heropic1.PNG)
+![Figure 1](image/school 1.PNG)
 ### School Summary
 
 * Create an overview table that summarizes key metrics about each school, including:
