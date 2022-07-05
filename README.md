@@ -21,7 +21,7 @@ Your final report should include each of the following:
 
 
 
-  
+ 
   
 ### School Summary
 
@@ -36,6 +36,9 @@ Your final report should include each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+  
+  ![Image]( https://github.com/areejhum/Python-CitySchools-project/blob/787e32600d47ee0e495792e47357e82ea8b5ca2b/image/school2.PNG)
+
 
 ### Top Performing Schools (By % Overall Passing)
 
