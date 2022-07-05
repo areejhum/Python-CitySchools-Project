@@ -18,10 +18,10 @@ Your final report should include each of the following:
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
 
-![image](image/school 1.PNG)
+   ![image](image/school 1.PNG)
 
 
-![Figure 1](image/school 1.PNG)
+
   
   
 ### School Summary
