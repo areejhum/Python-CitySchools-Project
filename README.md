@@ -1,13 +1,14 @@
 ### Python-CitySchools-project
 
 
- In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities. As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
+ About
+In this project, the data has been aggregated and shown as obvious trends in school performance. Then, tried helped to make the school board and mayor make strategic decisions regarding future school budgets and priorities. Then, made a report including the summary district. As a first task, school dataset've analyzed the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. The main  responsibility is to calcolatee the data to find answers of plenty of questions, and showcase a worthy trends in school performance.
 
-Your final report should include each of the following:
+The final report nclude each of the following:
 
 ### District Summary
 
-* Create a high level snapshot (in table form) of the district's key metrics, including:
+The district's key metrics, including:
   * Total Schools
   * Total Students
   * Total Budget
@@ -25,7 +26,7 @@ Your final report should include each of the following:
   
 ### School Summary
 
-* Create an overview table that summarizes key metrics about each school, including:
+* The summarizes key metrics about each school, including:
   * School Name
   * School Type
   * Total Students
@@ -42,7 +43,7 @@ Your final report should include each of the following:
 
 ### Top Performing Schools (By % Overall Passing)
 
-* Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
+* The table that highlights the # top 5 performing schools based on % Overall Passing. Include:
   * School Name
   * School Type
   * Total Students
@@ -58,23 +59,23 @@ Your final report should include each of the following:
 
 ### Bottom Performing Schools (By % Overall Passing)
 
-* Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
+* The table that highlights the # bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
 ![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school4.PNG)
 
 ### Math Scores by Grade\*\*
 
-* Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+* The table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school5.PNG)
 
 ### Reading Scores by Grade
 
-* Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+* The table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ### Scores by School Spending
 
-* Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
+* The table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
   * Average Math Score
   * Average Reading Score
   * % Passing Math (The percentage of students that passed math.)
@@ -84,10 +85,12 @@ Your final report should include each of the following:
 ![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school6.PNG)
 ### Scores by School Size
 
-* Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+* This tabe shows group schools based on a reasonable approximation of school # size (Small, Medium, Large).
 ![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school7.PNG)
 ### Scores by School Type
 
-* Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+* This tabe shows group schools based on school type # (Charter vs. District).
 
 ![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school8.PNG)
+
+Thank You
