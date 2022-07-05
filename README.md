@@ -60,9 +60,13 @@ Your final report should include each of the following:
 
 * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
+![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school4.PNG)
+
 ### Math Scores by Grade\*\*
 
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
+![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school5.PNG)
 
 ### Reading Scores by Grade
 
@@ -77,10 +81,13 @@ Your final report should include each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
+![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school6.PNG)
 ### Scores by School Size
 
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
-
+![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school7.PNG)
 ### Scores by School Type
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+
+![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school8.PNG)
