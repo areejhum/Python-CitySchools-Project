@@ -1,8 +1,8 @@
 ### Python-CitySchools-project
 
 
- About
-In this project, the data has been aggregated and shown as obvious trends in school performance. Then, tried helped to make the school board and mayor make strategic decisions regarding future school budgets and priorities. Then, made a report including the summary district. As a first task, school dataset've analyzed the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. The main  responsibility is to calcolatee the data to find answers of plenty of questions, and showcase a worthy trends in school performance.
+
+ In this project, the data has been aggregated and shown as obvious trends in school performance. Then, tried helped to make the school board and mayor make strategic decisions regarding future school budgets and priorities. Then, made a report including the summary district. As a first task, school dataset've analyzed the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. The main  responsibility is to calcolatee the data to find answers of plenty of questions, and showcase a worthy trends in school performance.
 
 The final report nclude each of the following:
 
