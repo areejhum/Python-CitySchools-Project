@@ -104,7 +104,7 @@ The district's key metrics, including:
 
 * The table that highlights the # bottom 5 performing schools based on % Overall Passing. 
 
-المدارس ذات الأداء الأدنى (بنسبة النجاح الكلي)
+### المدارس ذات الأداء الأدنى (بنسبة النجاح الكلي)
 * الجدول الذي يسلط الضوء على المدارس الخمس الأدنى أداءً بناءً على نسبة النجاح الكلي.. 
 
 ![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school4.PNG)
@@ -113,7 +113,7 @@ The district's key metrics, including:
 
 * The table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-درجات الرياضيات حسب المستوى الصف\*\*
+### درجات الرياضيات حسب المستوى الصف:\*\*
 
 * الجدول الذي يسرد متوسط ​​درجات الرياضيات للطلاب في كل مستوى صف (9 ، 10 ، 11 ، 12) في كل مدرسة.
 
@@ -121,10 +121,8 @@ The district's key metrics, including:
 
 ### Reading Scores by Grade
 
-### درجات القراءه حسب الصف
-
 * The table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
-### درجات القراءة مستوى الصف
+### درجات القراءة مستوى الصف:
 
 * الجدول الذي يسرد متوسط ​​درجات القراءة للطلاب في كل مستوى صف (9 ، 10 ، 11 ، 12) في كل مدرسة.
 
