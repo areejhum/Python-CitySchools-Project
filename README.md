@@ -24,7 +24,7 @@ The district's key metrics, including:
 المقاييس الرئيسية للمنطقةالتعليميه:
    * مجموع المدارس
    * مجموع الطلاب
-   *الميزانية الإجمالية
+   * الميزانية الإجمالية
    * متوسط ​​درجات الرياضيات
    * متوسط ​​درجات القراءة
    * (النسبة المئوية للطلاب الذين اجتازوا الرياضيات.)
@@ -51,9 +51,9 @@ The district's key metrics, including:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-  ### ملخص المدارس
+  ### ملخص المدارس:
+يلخص المقاييس الرئيسية حول كل مدرسة ، بما في ذلك:
 
-* يلخص المقاييس الرئيسية حول كل مدرسة ، بما في ذلك:
    * اسم المدرسة
    * نوع المدرسة
    * مجموع الطلاب
@@ -84,7 +84,7 @@ The district's key metrics, including:
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
   
-  ### أفضل خمس مدارس أداءً (بنسبة النجاح الكلي)
+  ### أفضل خمس مدارس أداءً (بنسبة النجاح الكلي:)
 
 * الجدول الذي يسلط الضوء على أفضل 5 مدارس أداءً بناءً على نسبة النجاح الكلي. يشمل:
    * اسم المدرسة
