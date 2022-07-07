@@ -50,8 +50,8 @@ The district's key metrics, including:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
-  
-  ### ملخص المدارس:
+
+### ملخص المدارس:
 يلخص المقاييس الرئيسية حول كل مدرسة ، بما في ذلك:
 
    * اسم المدرسة
@@ -82,8 +82,6 @@ The district's key metrics, including:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
-  
-  
   ### أفضل خمس مدارس أداءً (بنسبة النجاح الكلي:)
 
 * الجدول الذي يسلط الضوء على أفضل 5 مدارس أداءً بناءً على نسبة النجاح الكلي. يشمل:
