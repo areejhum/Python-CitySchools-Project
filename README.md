@@ -20,8 +20,8 @@ The district's key metrics, including:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-  
-المقاييس الرئيسية للمنطقة ، بما في ذلك:
+  ### ملخص الحي"المنطقة التعليميه":
+المقاييس الرئيسية للمنطقةالتعليميه:
    * مجموع المدارس
    * مجموع الطلاب
    *الميزانية الإجمالية
