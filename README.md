@@ -135,7 +135,7 @@ The district's key metrics, including:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-  ### مع درجة الأداء المدرسي حسب إنفاق المدرسة:
+### مع درجة الأداء المدرسي حسب إنفاق المدرسة:
 
 * الجدول الذي يقسم الأداء المدرسي بناءً على متوسط ​​نطاقات الإنفاق (لكل طالب). استخدم 4 صناديق معقولة لتجميع الإنفاق المدرسي. قم بتضمين كل مما يلي في الجدول:
 * متوسط ​​درجات الرياضيات
@@ -149,6 +149,8 @@ The district's key metrics, including:
 ### Scores by School Size
 
 * This tabe shows group schools based on a reasonable approximation of school size (Small, Medium, Large).
+* 
+### الدرجات حسب حجم المدرسه:
 
 * يوضح هذا الجدول مجموعة المدارس بناءً على تقدير تقريبي معقول لحجم المدرسة (صغير ، متوسط ​​، كبير).
 
@@ -156,7 +158,7 @@ The district's key metrics, including:
 ### Scores by School Type
 
 * This tabe shows group schools based on school type # (Charter vs. District).
-
+### الدرجات حسب نوع المدرسه:
 * يوضح هذا الجدول مدارس مجموعة المدارس بناءً على نوع المدرسة # (الامتيازات مقابل المنطقة التعليمية"الحي").
 
 ![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school8.PNG)
