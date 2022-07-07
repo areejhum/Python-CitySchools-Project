@@ -137,14 +137,14 @@ The district's key metrics, including:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-  معدرجة الأداء المدرسي حسب إنفاق المدرسة
+  ### مع درجة الأداء المدرسي حسب إنفاق المدرسة:
 
 * الجدول الذي يقسم الأداء المدرسي بناءً على متوسط ​​نطاقات الإنفاق (لكل طالب). استخدم 4 صناديق معقولة لتجميع الإنفاق المدرسي. قم بتضمين كل مما يلي في الجدول:
-   * متوسط ​​درجات الرياضيات
-   * متوسط ​​درجات القراءة
-   * النسبة المئوية لاجتياز الرياضيات (النسبة المئوية للطلاب الذين اجتازوا الرياضيات.)
-   * النسبة المئوية لاجتياز القراءة (النسبة المئوية للطلاب الذين اجتازوا القراءة).
-   * النسبة المئوية للنجاح الكلي (النسبة المئوية للطلاب الذين اجتازوا الرياضيات ** و ** القراءة.)
+* متوسط ​​درجات الرياضيات
+* متوسط ​​درجات القراءة
+* النسبة المئوية لاجتياز الرياضيات (النسبة المئوية للطلاب الذين اجتازوا الرياضيات.)
+* النسبة المئوية لاجتياز القراءة (النسبة المئوية للطلاب الذين اجتازوا القراءة).
+* النسبة المئوية للنجاح الكلي (النسبة المئوية للطلاب الذين اجتازوا الرياضيات ** و ** القراءة.)
 
 ![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school6.PNG)
 
@@ -152,14 +152,14 @@ The district's key metrics, including:
 
 * This tabe shows group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
-يوضح هذا الجدول مجموعة المدارس بناءً على تقدير تقريبي معقول لحجم المدرسة (صغير ، متوسط ​​، كبير).
+* يوضح هذا الجدول مجموعة المدارس بناءً على تقدير تقريبي معقول لحجم المدرسة (صغير ، متوسط ​​، كبير).
 
 ![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school7.PNG)
 ### Scores by School Type
 
 * This tabe shows group schools based on school type # (Charter vs. District).
 
-يوضح هذا الجدول مدارس مجموعة المدارس بناءً على نوع المدرسة # (الامتيازات مقابل المنطقة التعليمية"الحي").
+* يوضح هذا الجدول مدارس مجموعة المدارس بناءً على نوع المدرسة # (الامتيازات مقابل المنطقة التعليمية"الحي").
 
 ![image](https://github.com/areejhum/Python-CitySchools-project/blob/e38c69974e2404a4d7f0ef5446286cc76850e239/image/school8.PNG)
 
